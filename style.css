@@ -1,0 +1,37 @@
+* {
+background-color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header__container {
+    font-weight: normal;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    color: aquamarine;
+    font-size: 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.video__container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.middle__container {
+font-weight: 300;
+font-size: 1.2rem;
+color: #fff;
+display: flex;
+flex-direction: center;
+justify-content: center;
+text-align: center;
+}

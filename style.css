@@ -31,7 +31,9 @@ font-weight: 300;
 font-size: 1.2rem;
 color: #fff;
 display: flex;
+flex-direction: column;
 flex-direction: center;
 justify-content: center;
 text-align: center;
 }
+
